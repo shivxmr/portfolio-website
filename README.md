@@ -1,3 +1,3 @@
 # portfolio-website
 
-This is a Github repo where I'll shortly push my portfolio website's codes. Stay tuned for the updates!
+This is a Github repo where I'll shortly push my portfolio website's codes. Stay tuned for the updates! Will update shortly.
